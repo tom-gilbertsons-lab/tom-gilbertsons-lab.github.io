@@ -1,9 +1,9 @@
 people:
-- {name: 'Dr Tomas Gilbertson', title: 'Principal Investigator',  department: 'Neuroscience',
+- {name: 'Dr Tom Gilbertson', title: 'Principal Investigator',  department: 'Neuroscience',
   institution: 'School of Medicine, University of Dundee', institution_address: 'Ninewells Hospital & Medical School, Dundee',
   email: 't.gilbertson@dundee.ac.uk', office: 'Lab Block L6 C 044, Ninewells Hospital & Medical School, Dundee',
   image: 'assets/img/placeholder.png', url: 'tom-gilbertson',
-  one-line-statement: 'apathy is the worst'}
+  one-line-statement: 'apathy is rubbish'}
 - {name: 'Dr Isla Barnard', title: 'Postdoctoral Research Assistant', department: 'Physics & Biomedical Engineering',
   institution: 'School of Science & Engineering, University of Dundee', institution_address: 'Fulton Building, Dundee',
   email: 'ibarnard001@dundee.ac.uk', office: 'Lab Block L6 C 044, Ninewells Hospital & Medical School, Dundee',
