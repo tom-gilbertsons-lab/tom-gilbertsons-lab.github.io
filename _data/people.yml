@@ -8,7 +8,7 @@ people:
   institution: 'School of Science & Engineering, University of Dundee', institution_address: 'Fulton Building, Dundee',
   email: 'ibarnard001@dundee.ac.uk', office: 'Lab Block L6 C 044, Ninewells Hospital & Medical School, Dundee',
   image: 'assets/img/placeholder.png', url: 'isla-barnard',
-   one-line-statement: 'Using numerical methods (& easier web tools) to meet clinical need'}
+   one-line-statement: 'Using numerical methods (& some web tools) to meet clinical need'}
 - {name: 'ShenShen Yang', title: 'PhD Student', department: 'Neuroscience',
   institution: 'School of Medicine, University of Dundee', institution_address: 'Ninewells Hospital & Medical School, Dundee',
   email: '****@dundee.ac.uk', office: 'Lab Block L6 C 044, Ninewells Hospital & Medical School, Dundee',
