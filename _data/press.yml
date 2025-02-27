@@ -1,0 +1,9 @@
+featured:
+- {name: 'Wonders of the Human Body (Channel 5, June 2024)', url: 'https://doi.org/10.1093/brain/awae025'}
+- {name: 'Parkinson’s patient in Scotland to undergo ultrasound thalamotomy (STV News)', url: 'https://news.stv.tv/north/man-with-parkinsons-first-in-scotland-to-undergo-miracle-procedure-to-prevent-tremors'}
+- {name: '"Life-changing" treatment to tackle tremors launched in Dundee (BBC News)', url: 'https://www.bbc.co.uk/news/uk-scotland-tayside-central-57582411#:~:text=Dundee%20University%20raised%20£2m,few%20hours%20to%20carry%20out.'}
+
+index:
+- {name: 'Wonders of the Human Body (Channel 5, June 2024)', url: 'https://doi.org/10.1093/brain/awae025'}
+- {name: 'Parkinson’s patient in Scotland to undergo ultrasound thalamotomy (STV News)', url: 'https://news.stv.tv/north/man-with-parkinsons-first-in-scotland-to-undergo-miracle-procedure-to-prevent-tremors'}
+- {name: '"Life-changing" treatment to tackle tremors launched in Dundee (BBC News)', url: 'https://www.bbc.co.uk/news/uk-scotland-tayside-central-57582411#:~:text=Dundee%20University%20raised%20£2m,few%20hours%20to%20carry%20out.'}

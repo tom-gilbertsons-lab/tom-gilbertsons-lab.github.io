@@ -1,10 +1,14 @@
 featured:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
+- {name: 'Impaired value-based decision-making in Parkinson’s disease apathy. William Gilmour, Graeme Mackenzie, Mathias Feile, Louise Tayler-Grint, Szabolcs Suveges, Jennifer A Macfarlane, Angus D Macleod, Vicky Marshall, Iris Q Grunwald, J Douglas Steele, Tom Gilbertson', url: 'https://doi.org/10.1093/brain/awae025'}
+- {name: 'Mapping the thalamus’s role in reinforcement learning with Focused Ultrasound Thalamotomy', url: 'https://talks.ox.ac.uk/talks/id/83bbcc99-bd6f-4b59-a489-0f3e5381e63f/'}
+- {name: 'Pallidal neuromodulation of the explore/exploit trade-off in decision-making. Ana Luísa de A. Marcelino, Owen Gray, Bassam Al-Fatly, William Gilmour, J. Douglas Steele, Andrea A. Kühn, Tom Gilbertson', url: 'https://doi.org/10.7554/eLife.79642'}
+- {name: 'Brain targeting for focused ultrasound essential tremor ablation: proceedings from the 2023 Focused Ultrasound Foundation workshop. Chua, Melissa M. J., Suzanne LeBlang, Lauren Powlovich, Tom Gilbertson, Vibhor Krishna, Charles R. G. Guttmann, Matthew D. C. Eames, Frantz R. Poulsen, and G. Rees Cosgrove', url: 'https://doi.org/10.3171/2024.6.FOCUS2494'}
 
-index:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
+
+index-pubs:
+- {name: 'Impaired value-based decision-making in Parkinson’s disease apathy. William Gilmour, Graeme Mackenzie, Mathias Feile, Louise Tayler-Grint, Szabolcs Suveges, Jennifer A Macfarlane, Angus D Macleod, Vicky Marshall, Iris Q Grunwald, J Douglas Steele, Tom Gilbertson', url: 'https://doi.org/10.1093/brain/awae025'}
+- {name: 'Pallidal neuromodulation of the explore/exploit trade-off in decision-making. Ana Luísa de A. Marcelino, Owen Gray, Bassam Al-Fatly, William Gilmour, J. Douglas Steele, Andrea A. Kühn, Tom Gilbertson', url: 'https://doi.org/10.7554/eLife.79642'}
+- {name: 'Brain targeting for focused ultrasound essential tremor ablation: proceedings from the 2023 Focused Ultrasound Foundation workshop. Chua, Melissa M. J., Suzanne LeBlang, Lauren Powlovich, Tom Gilbertson, Vibhor Krishna, Charles R. G. Guttmann, Matthew D. C. Eames, Frantz R. Poulsen, and G. Rees Cosgrove', url: 'https://doi.org/10.3171/2024.6.FOCUS2494'}
+
+index-talks:
+- {name: 'Mapping the thalamus’s role in reinforcement learning with Focused Ultrasound Thalamotomy, University of Oxford', url: 'https://talks.ox.ac.uk/talks/id/83bbcc99-bd6f-4b59-a489-0f3e5381e63f/'}

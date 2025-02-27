@@ -1,25 +1,37 @@
 menu:
 - {name: 'people', url: '/people'}
-- {name: 'publications', url: '/publications'}
+- {name: 'publications & talks', url: '/publications'}
 - {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
+- {name: 'press', url: '/press'}
+# - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
 people:
-- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
-- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
-- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+- {name: 'Dr Tom Gilbertson', title: 'Senior Lecturer',  department: 'Neuroscience', institution: 'School of Medicine, University of Dundee', institution_address: 'Ninewells Hospital & Medical School, Dundee', email: 't.gilbertson@dundee.ac.uk', office: 'Lab Block L6 C 044, Ninewells Hospital & Medical School, Dundee', image: 'assets/img/placeholder.png', url: 'tom-gilbertson'}
+- {name: 'Isla Barnard', title: 'Postdoctoral Research Assistant', department: 'Physics & Biomedical Engineering', institution: 'School of Science & Engineering, University of Dundee', institution_address: 'Fulton Building, Dundee',  email: 'ibarnard001@dundee.ac.uk', office: 'Lab Block L6 C 044, Ninewells Hospital & Medical School, Dundee', image: 'assets/img/placeholder.png', url: 'isla-barnard'}
+- {name: 'ShenShen Yang', title: 'PhD Student', department: 'Neuroscience', institution: 'School of Medicine, University of Dundee', institution_address: 'Ninewells Hospital & Medical School, Dundee',  email: '****@dundee.ac.uk', office: 'Lab Block L6 C 044, Ninewells Hospital & Medical School, Dundee', image: 'assets/img/placeholder.png', url: 'shenshen-yang'}
 
+prev-people:
+- {name: 'Will Gilmour', title: 'Clinical Fellow', department: 'Neuroscience', institution: 'School of Medicine, University of Dundee', institution_address: 'Ninewells Hospital & Medical School, Dundee', image: 'assets/img/placeholder.png', url: 'primary-investigator'}
+
+#need talks, events and PROJECTS
 courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+- {name: 'Translational Neuroscience (GM51075)', url: 'https://www.dundee.ac.uk/module/gm51075'}
+#- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
+#- {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'fab fa-github', link: 'https://github.com/tom-gilbertsons-lab'}
+# - {icon: 'twitter', link: 'https://twitter.com/paululele'}
+- {icon: 'fa fa-graduation-cap', link: 'https://www.dundee.ac.uk/people/tom-gilbertson'}
+- {icon: 'fa fa-book-open', link: 'https://discovery.dundee.ac.uk/en/persons/tom-gilbertson'}
+# - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Dr Tom Gilbertson',
+  role1: 'Senior Lecturer',  department1: 'Neuroscience', institution1: 'School of Medicine, University of Dundee',
+  role2: 'Honorary Consultant',  department2: 'Neurology', institution2: 'NHS Tayside',
+  institution_address: 'Ninewells Hospital & Medical School, Dundee',
+  email: 't.gilbertson@dundee.ac.uk', office: 'Lab Block L6 C 044',
+  image: 'assets/img/contact.png', url: 'tom-gilbertson'}

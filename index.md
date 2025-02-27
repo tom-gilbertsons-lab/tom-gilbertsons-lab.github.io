@@ -2,7 +2,13 @@
 layout: home
 title: "Home"
 ---
+clinical- movement disorders eg parkinsons essential tremor, ultrasound thalamotomy, clinical lead for MRgFUS thalamotomy in Scotland.
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+and research interests focus on the cognitive and neural mechanisms underlying apathy
+by studying influence of neuromodulatory systems on decision-making,
+with a particular emphasis on the challenges posed by apathy
+and the balance between exploration and exploitation in learning.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+We're interested in  in advanced imaging techniques to better understand thalamo-cortical and basal ganglia networks,
+
+words words words urgh

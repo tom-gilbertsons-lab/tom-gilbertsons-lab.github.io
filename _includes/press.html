@@ -1,0 +1,19 @@
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Press</h3>
+    {% if page.title == "Home" %}
+    {% for item in site.data.press.featured %}
+    <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+    {% endfor %}
+    {% else %}
+    {% for item in site.data.press.index %}
+    <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+    {% endfor %}
+    {% endif %}
+  </div>
+  <hr>
+  <div>
+    <p>For press enquiries, contact <a href="https: //www.dundee.ac.uk/communications">University of Dundee Corporate
+        Communications</a>.</p>
+  </div>
+</div>
