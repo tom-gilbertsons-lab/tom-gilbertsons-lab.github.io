@@ -1,18 +1,19 @@
 # Tom's Lab Pages
 
-###
+### Using the https://github.com/LeNPaul/academic theme.
 
-## Usage
+You can make content changes via the Github text editor/ file uploader (i.e. no need to pull the repo & push changes; but if you do want to do that follow instructions at https://github.com/LeNPaul/academic for info on how to run local development server etc). 
 
-Instructions below!
+To make any changes, sign up to github and ask to be added as a member of the organisation/ collaborator on this repository.
+
+## How to... 
 
 ### Add yourself to the lab pages
 
-To add yourself to the lab pages, first log in to Github and be added as a collaborator on this repository.
 
 The `_layouts/people.html` layout can be used to showcase and describe people in your research group. People are defined in the `_data/settings.yml` file, and markdown pages for each person with the `_layouts/page.html` layout can be placed in the `people` directory. Upload a nice picture (recomment about 900x900 pixels)
 
-You can actually make all your changes via the Github text editor which is kind of cool
+
 
 ## Front page
 Home pages shows some info and also recent 'posts' if you want to use them. They can also just be deleted or not used,
