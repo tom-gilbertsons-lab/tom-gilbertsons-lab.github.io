@@ -13,8 +13,8 @@ people:
 - {name: 'Dr Isla Barnard', title: 'Postdoctoral Research Assistant', department: 'Physics & Biomedical Engineering',
   institution: 'School of Science & Engineering, University of Dundee', institution_address: 'Fulton Building, Dundee',
   email: 'ibarnard001@dundee.ac.uk', office: 'Lab Block L6 C 044, Ninewells Hospital & Medical School, Dundee',
-  image: 'assets/img/placeholder.png', url: 'isla-barnard',
-   one-line-statement: 'Using numerical methods (& some web tools) to meet clinical need'}
+  image: 'assets/img/isla-barnard.png', url: 'isla-barnard',
+   one-line-statement: 'Computational physicist (numerical methods + web tools)'}
 
 
 prev-people:
