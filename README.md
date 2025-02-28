@@ -1,5 +1,7 @@
 # Tom's Lab Pages
 
+## https://tom-gilbertsons-lab.github.io
+
 ### Using the https://github.com/LeNPaul/academic theme.
 
 You can make content changes via the Github text editor/ file uploader (i.e. no need to pull the repo & push changes; but if you do want to do that follow instructions at https://github.com/LeNPaul/academic for info on how to run local development server etc). 
