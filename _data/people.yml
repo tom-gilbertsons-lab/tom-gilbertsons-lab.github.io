@@ -18,4 +18,4 @@ people:
 
 
 prev-people:
-- {name: 'Will Gilmour', title: 'Clinical Fellow', department: 'Neuroscience', institution: 'School of Medicine, University of Dundee', institution_address: 'Ninewells Hospital & Medical School, Dundee', image: 'assets/img/placeholder.png', url: 'primary-investigator'}
+- {name: 'Will Gilmour', title: 'Clinical Fellow', department: 'Neuroscience', institution: 'School of Medicine, University of Dundee', institution_address: 'Ninewells Hospital & Medical School, Dundee', image: 'assets/img/placeholder.png'}
