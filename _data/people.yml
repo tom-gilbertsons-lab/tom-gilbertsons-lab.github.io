@@ -18,5 +18,11 @@ people:
   image: 'assets/img/placeholder.png', url: 'shenshen-yang',
    one-line-statement: 'Tractography'}
 
+- {name: 'Mihaela Lyutskanova', title: 'PhD Student', department: 'Neuroscience',
+  institution: 'School of Humanities, Social Sciences and Law, University of Dundee', institution_address: ', Scrymgeour Building, University of Dundee, DD1 4HN',
+  email: '180006960@dundee.ac.uk', office: 'Lab Block L6 C 044, Ninewells Hospital & Medical School, Dundee',
+  image: 'assets/img/placeholder.png', url: 'mihaela-lyutskanova',
+  one-line-statement: 'Using EEG to study apathy and aid early diagnosis of PD.'}
+
 prev-people:
 - {name: 'Will Gilmour', title: 'Clinical Fellow', department: 'Neuroscience', institution: 'School of Medicine, University of Dundee', institution_address: 'Ninewells Hospital & Medical School, Dundee', image: 'assets/img/placeholder.png'}
