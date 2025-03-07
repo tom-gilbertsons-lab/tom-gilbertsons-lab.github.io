@@ -7,30 +7,59 @@ layout: default
 <h3 class="fw-bold border-bottom pb-3 mb-5">People</h3>
 {% for person in site.data.people.people %}
 <div class="row g-5 mb-5">
-  <div class="col-md-6">
+  <!-- Text Info -->
+  <div class="col-md-6 order-2 order-md-1">
     <h5>{{ person.name }}</h5>
     <p>{{ person.title }}</p>
+    {% if person.email %}
     <p>Email: {{ person.email }}</p>
+    {% endif %}
+    {% if person.one-line-statement %}
     <p>{{ person.one-line-statement }}</p>
+    {% endif %}
+    {% if person.url %}
     <p><a href="{{ site.github.url }}/people/{{ person.url }}">More info</a></p>
+    {% endif %}
   </div>
-  <div class="col-md-6">
-    <img src="{{ site.github.url }}/{{ person.image }}" alt="Contact" width="50%">
+  <!-- Image -->
+  <div class="col-md-6 order-1 order-md-2">
+    {% if person.image %}
+    <img src="{{ site.github.url }}/{{ person.image }}" alt="Contact" class="rounded-circle"
+      style="width: 150px; height: 150px; object-fit: cover;">
+    {% else %}
+    <img src="{{ site.github.url }}/assets/img/placeholder.png" alt="Contact" class="rounded-circle"
+      style="width: 150px; height: 150px; object-fit: cover;">
+    {% endif %}
   </div>
 </div>
 {% endfor %}
+
 <h3 class="fw-bold border-bottom pb-3 mb-5">Previous Members</h3>
 {% for person in site.data.people.prev-people %}
 <div class="row g-5 mb-5">
-  <div class="col-md-6">
+  <!-- Text Info -->
+  <div class="col-md-6 order-2 order-md-1">
     <h5>{{ person.name }}</h5>
     <p>{{ person.title }}</p>
+    {% if person.email %}
     <p>Email: {{ person.email }}</p>
+    {% endif %}
+    {% if person.one-line-statement %}
     <p>{{ person.one-line-statement }}</p>
+    {% endif %}
+    {% if person.url %}
     <p><a href="{{ site.github.url }}/people/{{ person.url }}">More info</a></p>
+    {% endif %}
   </div>
-  <div class="col-md-6">
-    <img src="{{ site.github.url }}/{{ person.image }}" alt="Contact" width="50%">
+  <!-- Image -->
+  <div class="col-md-6 order-1 order-md-2">
+    {% if person.image %}
+    <img src="{{ site.github.url }}/{{ person.image }}" alt="Contact" class="rounded-circle"
+      style="width: 150px; height: 150px; object-fit: cover;">
+    {% else %}
+    <img src="{{ site.github.url }}/assets/img/placeholder.png" alt="Contact" class="rounded-circle"
+      style="width: 150px; height: 150px; object-fit: cover;">
+    {% endif %}
   </div>
 </div>
 {% endfor %}
