@@ -2,13 +2,12 @@
 layout: home
 title: "Home"
 ---
-clinical- movement disorders eg parkinsons essential tremor, ultrasound thalamotomy, clinical lead for MRgFUS thalamotomy in Scotland.
+My group investigates abnormal structure and function relationships in neural circuit disorders of the human brain.
+These include Parkinson's disease, Essential Tremor and Dystonia. We study patients with using techniques developed from 
+human neuroscience investigations, including computational modeling of decision making, functional Magnetic Resonance imaging, 
+diffusion tensorimaging and event related EEG. 
 
-and research interests focus on the cognitive and neural mechanisms underlying apathy
-by studying influence of neuromodulatory systems on decision-making,
-with a particular emphasis on the challenges posed by apathy
-and the balance between exploration and exploitation in learning. This is great.
+A particular focus is applying quanitatitive imaging analysis methods to two major research themes:i) improving outcomes from focused ultrasound lesion 
+therapy in Essential tremor and Parkinson's disease ii) using focused ultrasound neuromodulation to identify new targets for non-motor symptoms in 
+Parkinson's disease such as apathy.
 
-We're interested in  in advanced imaging techniques to better understand thalamo-cortical and basal ganglia networks,
-
-words words words urgh
