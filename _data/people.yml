@@ -2,8 +2,8 @@ people:
 - {name: 'Dr Tom Gilbertson', title: 'Principal Investigator',  department: 'Neuroscience',
   institution: 'School of Medicine, University of Dundee', institution_address: 'Ninewells Hospital & Medical School, Dundee',
   email: 't.gilbertson@dundee.ac.uk', office: 'Lab Block L6 C 044, Ninewells Hospital & Medical School, Dundee',
-  image: 'assets/img/placeholder.png', url: 'tom-gilbertson',
-  one-line-statement: 'apathy is rubbish'}
+  image: 'assets/img/TGP.png', url: 'tom-gilbertson',
+  one-line-statement: 'Senior Lecturer & Honorary Consultant Neurologist'}
 
   
 - {name: 'Dr Isla Barnard', title: 'Postdoctoral Research Assistant', department: 'Physics & Biomedical Engineering',
