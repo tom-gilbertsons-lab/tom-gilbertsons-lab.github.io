@@ -2,5 +2,9 @@
 layout: post
 title: "Royal Society Summer Science Exhibition "
 ---
+Tom & Isla were invited to contribute to a proposal, led by Prof. Sandy Cochran at the University of Glasgow, to the Royal Society Summer Science Exhibition. We're delighted to take part, showcasing "Harnessing the Energy – Extraordinary Medical Uses of Ultrasound. 
 
-A proposal put forward to the Royal Society Summer Science Exhibition by Sandy Chochran, University of Glasgow, Was accepted, wuiht our foyxs n 'Harnessing te Energy- Extraordinary medical uses of ultrasound'
+**1-6 July 2025**\
+The Royal Society,\
+6-9 Carlton House Terrace\
+London SW1Y 5AG
