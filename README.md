@@ -55,10 +55,13 @@ The home page shows text from the [`index.md`](index.md) and the image at  [`ass
 
 ## Add publications & talks 
 Publications are listed in the [`_data/publications.yml`](_data/publications.yml) file (and PDFs may be served via the `publications` directory).\
-The [`_data/publications.yml`](_data/publications.yml) file also has a set for featured publications, try to update this as new papers come out (& leave good ones up!) as these sow on the front page. 
+The [`_data/publications.yml`](_data/publications.yml) file also has a set for featured publications, try to update this as new papers come out (& leave good ones up) as these show on the front page. 
+## Add Press 
+Press highlights are listed in the [`_data/press.yml`](_data/press.yml) file.\
+
 
 ### Add a post
-Posts disseminating news/ updates may be placed in the [`_posts/`](_posts) directory. Again, just copy an exisiting post from that dir and rename with format `YY-MM-DD-post-name.md`. The site should pick it up when it rebuilds. 
+News/ updates may be placed in the [`_posts/`](_posts) directory. Easiest is just copy content code from an exisiting post and rename with format `YY-MM-DD-post-name.md`. The site should pick it up when it rebuilds. 
 
 ## License & Theme
 Adapted from  GitHub at https://github.com/LeNPaul/academic. The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
