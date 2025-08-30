@@ -24,5 +24,11 @@ people:
   image: 'assets/img/mihaela-lyutskanova.jpg', url: 'mihaela-lyutskanova',
   one-line-statement: 'Using EEG to study apathy and aid early diagnosis of PD.'}
 
+- {name: 'Dr Victoria Collins', title: 'Honorary Clinical Research Fellow',  department: 'Neuroscience',
+  institution: 'School of Medicine, University of Dundee', institution_address: 'Ninewells Hospital & Medical School, Dundee',
+  email: 'vcollins001@dundee.ac.uk', office: 'Lab Block L6 C 044, Ninewells Hospital & Medical School, Dundee',
+  image: 'assets/img/vc.png', url: 'victoria-collins',
+  one-line-statement: 'Imaging and Clinical Outcomes in MRg-FUS'}
+
 prev-people:
 - {name: 'Will Gilmour', title: 'Clinical Fellow', department: 'Neuroscience', institution: 'School of Medicine, University of Dundee', institution_address: 'Ninewells Hospital & Medical School, Dundee', image: 'assets/img/placeholder.png'}
